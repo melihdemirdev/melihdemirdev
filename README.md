@@ -82,11 +82,6 @@ I'm a Software Developer and Senior Prompt Engineer with a passion for **Generat
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melihdemirdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melihdemirdev&theme=github_dark" alt="Profile Summary"/>
 </div>
