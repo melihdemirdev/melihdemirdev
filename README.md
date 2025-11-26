@@ -98,14 +98,6 @@ I'm a Software Developer and Senior Prompt Engineer with a passion for **Generat
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melihdemirdev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🎯 Core Principles
 
 <table>
