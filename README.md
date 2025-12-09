@@ -5,7 +5,7 @@
 # AI-Native Software Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Senior+Prompt+Engineer;Generative+AI+Specialist;OSS+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Building AI-Integrated Systems;Generative+AI+Specialist;OSS+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </div>
 
 <p align="center">
